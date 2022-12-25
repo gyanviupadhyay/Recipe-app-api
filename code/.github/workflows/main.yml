@@ -1,5 +1,5 @@
 ---
-name: Checks
+name: Main
 
 on: [push]
 
